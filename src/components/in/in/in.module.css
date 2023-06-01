@@ -1,0 +1,14 @@
+h2 {
+    display: inline-block;
+    padding: 0.5rem 1rem;
+    margin: 0;
+    background-color: transparent;
+    border: none;
+    border-radius: 0.3em;
+    font-size: 1.2rem;
+    color: #333;
+  }
+h2.active{
+    background-color: #555;
+    color: #fff;
+}
